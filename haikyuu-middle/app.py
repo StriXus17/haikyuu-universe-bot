@@ -16,6 +16,7 @@ def contact():
 @app.route('/', methods=['POST'])
 def result():
     global fyodor
+    print(request.json)
     fyodor = str(request.json).split(";;;")
     import dialogflow
     import random
