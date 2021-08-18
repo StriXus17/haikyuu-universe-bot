@@ -1,0 +1,2 @@
+Flask==2.0.1
+dialogflow==1.1.1
