@@ -14,7 +14,8 @@ def contact():
     return render_template("contact.html")
 @app.route('/', methods=['POST'])
 def result():
-    global gotcha = str(request.json).split(";;;")
+    global gotcha
+    gotcha = str(request.json).split(";;;")
     print(request.json)
 
 import os
