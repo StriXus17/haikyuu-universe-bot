@@ -14,6 +14,7 @@ def contact():
     return render_template("contact.html")
 @app.route('/', methods=['POST'])
 def result():
+    global gotcha = str(request.json).split(";;;")
     print(request.json)
 
 import os
@@ -21,12 +22,12 @@ import dialogflow
 import random
 import string
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "private_key.json"
-project_id = "hinata-shoyo-ghey"
+project_id = gotcha[0]
 session_id = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
 language_code = "en"
 session_client = dialogflow.SessionsClient()
 session = session_client.session_path(project_id, session_id)
-text = "Hello"
+text = gotcha[1]
 text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
 query_input = dialogflow.types.QueryInput(text=text_input)
 response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
