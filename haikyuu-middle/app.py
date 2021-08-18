@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 import os
+import json
 app = Flask(__name__)
 
 @app.route("/")
@@ -16,7 +17,9 @@ def contact():
 @app.route('/', methods=['POST'])
 def result():
     global fyodor
-    print(request.json)
+    global y
+    y = json.loads(request.json)
+    print(y)
     fyodor = str(request.json).split(";;;")
     import dialogflow
     import random
