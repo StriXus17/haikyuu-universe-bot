@@ -18,8 +18,7 @@ def contact():
 def result():
     global fyodor
     global y
-    y = json.loads(request.json)
-    print(y)
+    print(request.json)
     fyodor = str(request.json).split(";;;")
     import dialogflow
     import random
