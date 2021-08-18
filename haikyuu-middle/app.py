@@ -14,28 +14,28 @@ def contact():
     return render_template("contact.html")
 @app.route('/', methods=['POST'])
 def result():
-    print(request.json)
+    global fyodor
+    fyodor = str(request.json).split(";;;")
+    import os
+    import dialogflow
+    import random
+    import string
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "private_key.json"
+    project_id = fyodor[0]
+    session_id = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
+    language_code = "en"
+    session_client = dialogflow.SessionsClient()
+    session = session_client.session_path(project_id, session_id)
+    text = fyodor[1]
+    text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
+    query_input = dialogflow.types.QueryInput(text=text_input)
+    response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
+    print(response_dialogflow)
 
-import os
-import dialogflow
-import random
-import string
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "private_key.json"
-project_id = "hinata-shoyo-ghey"
-session_id = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
-language_code = "en"
-session_client = dialogflow.SessionsClient()
-session = session_client.session_path(project_id, session_id)
-text = "Hello"
-text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
-query_input = dialogflow.types.QueryInput(text=text_input)
-response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
-print(response_dialogflow)
-
-# Here's how you create a route
-# @app.route("/routeName")
-# def functionName():
-#    return render_template("fileName.html")
-
+    # Here's how you create a route
+    # @app.route("/routeName")
+    # def functionName():
+    #    return render_template("fileName.html")
+port = int(os.environ.get("PORT", 17995))
 if __name__ == "__main__":
-    app.run(debug=True,host='0.0.0.0', port=4000)
+    app.run(host='0.0.0.0', port=port)
