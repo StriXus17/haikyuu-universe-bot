@@ -38,4 +38,4 @@ print(response_dialogflow)
 #    return render_template("fileName.html")
 
 if __name__ == "__main__":
-    app.run(debug=True,host='haikyuu-universe.herokuapp.com', port=4000)
+    app.run(debug=True,host='0.0.0.0', port=4000)
