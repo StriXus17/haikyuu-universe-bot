@@ -18,7 +18,7 @@ def contact():
 def result():
     global fyodor
     global y
-    print(request.json)
+    print(request.json['query_input']['text']['text'])
     fyodor = str(request.json).split(";;;")
     import dialogflow
     import random
