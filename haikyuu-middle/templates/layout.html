@@ -1,0 +1,37 @@
+<!-- HTML in this page extends into every other page -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Title Goes Here</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="description" content="">
+  <link rel="shortcut icon" id="favicon" href="/static/img/favicon.ico"> 
+  <link rel='stylesheet' type='text/css' href='/static/css/main.css'>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <!-- Header HTML Here -->
+      <!-- Example Below -->
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </header>
+    <div class="main-container">
+      <!-- Main HTML Goes In Seperate File -->
+      {% block body %}
+      {% endblock %}  
+    </div>
+    <footer>
+      <!-- Footer HTML Here -->
+      <p>&copy; 2017 websiteName. All Rights Reserved<p>
+    </footer>
+    <script type="text/javascript" src="/static/js/main.js"></script>
+  </div>
+</body>
+</html>
