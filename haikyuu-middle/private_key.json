@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hinata-shoyo-ghey",
+  "private_key_id": "fcc391e9c95141d22c3d439cc1870c2cca024535",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDod5GS6tc+/unT\nSHrz3qXN3w3msgKpFN8vdlxpeHCG5MfovNJf4iqqbQPBpBIL1tVfP3c3mFXBXI7D\nX2TLNmTWknNqzNDv3GL81QG9sIH4QIPnahICu9n7jB1a66UXijMfbZCUi8aq8pZT\nklkGS4kQVN14t/8f0tgLlDZ4ip3FxOz0kheArZecJfcaAa2sePsXJ/EkCxfHpU2v\nqv4IjPPh+SK+CLXOFMKfWyN3lBCGda7FjNsdoXlDT98JdGX4VHiVjPkaWmBjhMTQ\nIuYy8GUICEZCoaUHbdd6LSXqsaHQzpYGjbqxM9Gi5Zwlbd+Llk5Ph0RRSHncXxTi\nOGczGhkLAgMBAAECggEAUX+ZyagLTkqQL0J52IV2G3bXqMk/pYdrt3gHbfKLgL80\nVqPcHUFtM9KEPp8GtJ/crkfRw+vkJKYOZvBKpfOr5o3xaL/lgDIDgiArPBVle2Mi\n2z6UkeDJyyaUJAv5FQeeZKZEyc83Fzd0/FeSXmKc6tzVyDy5dK62j1imwBvYtDxq\nyTPD+tVAn9mTN9plRKovazTQeTvVdmJfdL12oEc52jRUHIeMdmNfEM86w437fCoC\n2go3XBhjCDUfJGrQYEPUle5o87Efp0/cN0hqAGeeba0yAoejx137jK30+MWja/gw\n5EDayKG/bAGzD6H12bFA8SE0+xmdgJWS+y0NvSuOAQKBgQD0gA1WANfGIAGkaJRG\nJ/kAokYae6VNacu1dDfYxzokfduldMc0LZJqlXXjZKVp394qGauBDGLf2yUq8Iqe\nB2EH9r5lztLSb8IQNLUiJj6cblj6vbZqAOC8pfEiFCxgi91tSFB0V/SJmKXw8Vrq\nd1hAPnzhFAJjRbQW4mwCDX+9zQKBgQDzZqEh9e1mpH8Hn84PdhDeaFscvac7ME2V\n1d5W1xjCLtTzeLmP6Wy2TGkLGIodn8GaBN8EyFVti41ihTE3D2OFA1HL9mGLimga\nf+xTSGXaMLsQg5A9tfPB7igHr1xLabcTvxx7uY2hvIJablA43wmz1Xk0kq6jfSP/\n86zrc2eaNwKBgQDpJ7OP7/3T0XG/dnru6+9ny1dOqdpYmCrKPqmC73likyKCBXpx\nJ4QYX66rya5z6CfTvebuiQFAt5oZ+Ig3apH9Ji8qprAkPK6zBZA1oILUaeYwNfld\n3LhzLUtlVBd9eeMN84fFapqnHAoiWgZ40JY3rV8oxAwC3tV9fS3CR10pgQKBgQC3\nFDgZQlEqRoriIjqteIIhuF7oFGNIawHAtViC+1G9Jdq5s9HnxI0n5fuRBAlHVRYb\nkpRplYJkXnafZ03oe2PA9gk9oHooqpe5bwVEc41g/AyI1FzXfhf2g/uKJEYI12CE\nsthq29wDjraB7L3cuS8kHGsJt1cy0/sTF6e2hlykKwKBgQCGS9mEnsayoe6AMcB6\nzPrteG+euHIh80h/F1YOzXO8vYsfd2Gl1Oi1ALTQvQw1zxt396+KpoUybiZ4T8Lk\nRbN0hV2MXImYsfC3xXmlM0Wep0kpIizfExIvJXXyKZqWqZvA5eKSTQ9AhhJBWWdW\ny563ALTcnsjy+xhz1wcG2aUqUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hinata-shoyo-ghey@appspot.gserviceaccount.com",
+  "client_id": "109238930826290794254",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hinata-shoyo-ghey%40appspot.gserviceaccount.com"
+}
