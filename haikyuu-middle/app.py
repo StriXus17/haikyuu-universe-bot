@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+import os
 app = Flask(__name__)
 
 @app.route("/")
@@ -16,7 +17,6 @@ def contact():
 def result():
     global fyodor
     fyodor = str(request.json).split(";;;")
-    import os
     import dialogflow
     import random
     import string
