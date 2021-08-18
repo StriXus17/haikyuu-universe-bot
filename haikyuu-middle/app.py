@@ -14,8 +14,6 @@ def contact():
     return render_template("contact.html")
 @app.route('/', methods=['POST'])
 def result():
-    global kira
-    kira = str(request.json).split(";;;")
     print(request.json)
 
 import os
@@ -23,12 +21,12 @@ import dialogflow
 import random
 import string
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "private_key.json"
-project_id = kira[0]
+project_id = "hinata-shoyo-ghey"
 session_id = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
 language_code = "en"
 session_client = dialogflow.SessionsClient()
 session = session_client.session_path(project_id, session_id)
-text = kira[1]
+text = "Hello"
 text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
 query_input = dialogflow.types.QueryInput(text=text_input)
 response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
@@ -38,6 +36,6 @@ print(response_dialogflow)
 # @app.route("/routeName")
 # def functionName():
 #    return render_template("fileName.html")
-port = int(os.environ.get("PORT", 5000))
+
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=port)
+    app.run(debug=True,host='0.0.0.0', port=4000)
