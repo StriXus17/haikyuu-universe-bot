@@ -17,19 +17,20 @@ def contact():
 @app.route('/', methods=['POST'])
 def result():
     global fyodor
-    global y
+    global dazai
     print(request.json['query_input']['text']['text'])
-    fyodor = str(request.json).split(";;;")
+    fyodor = request.json['query_input']['text']['text']
+    dazai = request.json['query_input']['text']['id']
     import dialogflow
     import random
     import string
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "private_key.json"
-    project_id = fyodor[0]
+    project_id = dazai
     session_id = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
     language_code = "en"
     session_client = dialogflow.SessionsClient()
     session = session_client.session_path(project_id, session_id)
-    text = fyodor[1]
+    text = fyodor
     text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
     query_input = dialogflow.types.QueryInput(text=text_input)
     response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
