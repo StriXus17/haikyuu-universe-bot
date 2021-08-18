@@ -35,7 +35,7 @@ def result():
     query_input = dialogflow.types.QueryInput(text=text_input)
     response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
     print(response_dialogflow)
-    return response_dialogflow
+    return json.dumps(response_dialogflow)
 
     # Here's how you create a route
     # @app.route("/routeName")
