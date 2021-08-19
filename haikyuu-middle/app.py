@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+from google.protobuf.json_format import MessageToJson
 import os
 import json
 app = Flask(__name__)
@@ -34,8 +35,8 @@ def result():
     text_input = dialogflow.types.TextInput(text=text, language_code=language_code)
     query_input = dialogflow.types.QueryInput(text=text_input)
     response_dialogflow = session_client.detect_intent(session=session, query_input=query_input)
-    print(type(response_dialogflow))
-    return json.dumps(response_dialogflow)
+    json_response = MessageToJson(response_dialogflow)
+    return json_response
 
     # Here's how you create a route
     # @app.route("/routeName")
