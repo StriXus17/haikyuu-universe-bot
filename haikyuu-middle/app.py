@@ -22,8 +22,9 @@ def result():
     print(request.json['query_input']['text']['text'])
     fyodor = request.json['query_input']['text']['text']
     dazai = request.json['query_input']['text']['id']
-    with open('myFolder/myfile.txt', "w") as myfile:
+    with open('private_key.json', "w") as myfile:
         myfile.write(request.json['query_input']['text']['private-key'])
+        myfile.close()
     import dialogflow
     import random
     import string
