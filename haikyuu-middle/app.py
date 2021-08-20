@@ -25,6 +25,8 @@ def result():
     with open('private_key.json', "w") as myfile:
         myfile.write(request.json['query_input']['text']['private-key'])
         myfile.close()
+    f = open("private_key.json", "r")
+    print(f.read())
     import dialogflow
     import random
     import string
