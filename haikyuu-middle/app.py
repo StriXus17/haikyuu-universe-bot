@@ -22,6 +22,7 @@ def result():
     print(request.json['query_input']['text']['text'])
     fyodor = request.json['query_input']['text']['text']
     dazai = request.json['query_input']['text']['id']
+    print("I'm here")
     with open('private_key.json', "w") as myfile:
         myfile.write(request.json['query_input']['text']['private-key'])
         myfile.close()
