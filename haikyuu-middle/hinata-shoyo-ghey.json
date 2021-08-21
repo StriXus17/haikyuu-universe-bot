@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hinata-shoyo-ghey",
+  "private_key_id": "3244da5ce904f72242a21c7f8bf2d3c08e645c46",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVk6Q6xdIYO+2Y\nUAynVijOeUCRreO1KtCrZgLT+ZvcSxDazzRik+/958oVZRuBaURIONooQP3x6ttZ\ncoHhyW492PSwmT7AlETIXh/gkrpDZQZXBGr2hqqxz7vhjqko9XNrAPdTP7bDjA29\nZobjnFRe8RZsVhW3mgvcw5eWUTZ10QmB+lwlUPpTTlB20qpKIRAskA4N21E8U0CJ\nCuW7CYg1ZlRzgSiuO/g/YTnOluLhUu4ScQ0EpGmm251fIHrAR8XyDG3ay4LM+JCr\ne4LA6My7S+MiMI/Ggulx11fdcXVqiadDf3sQr3U9rM+uyUM0wD6BcRYdM0LlOcVN\na8a0qBeHAgMBAAECggEAAgpA/Va6ZQTdhiDtngOSrDY4Savxit930stMp52wwW/u\nH0jvZSmolzJJmd63XosU3eO9IblNM6xcoAQZ/YAhD3ItFCrCkLBZ39gWUdzU7qPe\nZaJjKyuqIbysPMFSGFQP4CvIMQFgy4lg8Dg0faQWojmHT02bM3/DMT6lCgiIjqOG\nDhURk009SHE+m2PXVMRfptFP27z3KFP6fWc/Qt/O+Au+KoANOvfFcZ3Xz1V1WWI9\nsW7VuTZPl5kjIZerJzDY1uhguA60oa6aMA34pNt+oqJEYbUmyzVf6FYBSalW47Ye\ni0e0kezNfDAsuLsqaqFusFHBJV9ZBlZTDeEfchvrkQKBgQDsj7hMTVdro3m/9EGI\n608p0MkJHdS+XO5PTidgZcJy5ZtBUCBl6JbmNex+wHjfScED4t7fE57E6ViBegyX\ne5poEYF38C8xqAGfT76cLgGhTcCn/zor6z5xmnWtdDYudTya6Wa+/2e7VXYMzNYz\niNp2Mqb0HahxDROWe5R0HFgZywKBgQDnIGsYsGICI8FS6J69VsMBrf2KpHFZ6L6T\nbOM/w0FsEVeqWUUQDgcMj+G+qdDaWmVO63haFqGIJrjKoAw4y6EWAMK62auTPC3L\nd3svBvykbFtgxRiJVRB8DJSHYMvRkexuvphjEYlmE7OGzl28VHHrlCEMRa3Tm+Qu\nvIDm8ooxtQKBgQCowV4YEJRslRIlfXnC0xqGGgtQFZfOtTzMFlTAz9cHYASBc0ep\na2M6lv0+7s9LerHWs+GKAdUhY9VfiFGzPtnHo7VYel8wbUm6/IhdofRHvc/SCKDW\n89p38FhChMSiH8A8QoSpfEnjufOc7gNggCBYcYnoW7/t5gYzM7WTnyS6QQKBgQCg\nV9M0q5ky1s9Vz1/hBwH+dlCBEJg6wccEy/PT1ofaiyWAXrIU80Zcpqz78x+bfD7w\nQ1eZWD30ELj+iY4xEMPOWfS+YCgx2vwCPf/NnlFDWJEET3g4PjVTef7I9JQx7cRT\nCBL8F7x0fpJ7oUtSTltCDd/nfaecOHhTHB9pGTZaSQKBgHA1varr+c/e4W2/wp4N\n6z15uc9lCTd4v2KxQG4lsFkoAMhO5zVE0Ga0R7+CCqFW9ZdX/WrWx7PSSOp/PSS/\ncf0W7HQLpS4CBEplulRn5PDB3MFsnCNWeoS4zM/gSDYo5+HaqTF5CKwOGOA6eEGz\ncYI/BuzOJojzvGan1/ffMrnk\n-----END PRIVATE KEY-----\n",
+  "client_email": "hinata-shoyo@hinata-shoyo-ghey.iam.gserviceaccount.com",
+  "client_id": "104972348742248891998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hinata-shoyo%40hinata-shoyo-ghey.iam.gserviceaccount.com"
+}

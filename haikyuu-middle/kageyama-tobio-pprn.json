@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kageyama-tobio-pprn",
+  "private_key_id": "d1ef6dc422ec657e7cc148579bd42cedbd399ada",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC00zHVrrAlt37X\nHx+HclqYegJ9cxDew1FYoMaZ4x/Yp11wwSMfzfu+FVXTsqENz3lxMkaXT2XmhRDd\nMCE6i5eWN+Fd1ztZhLxJE+/Sz9oHJ9szkn/AP8cgLD7pfOyq+RPQi4OScCbijU2v\nj3YkGPG4Yt0orO8ivwc62WkRMWJISa+4iCMWo6FPLGm3iru7Kg7Sp76KXw4VvqO2\nXghnssDwGoMdDbUb+HIGpMJ8vqDfNBom6QcZTtKw1Nlnk3F1fNkOEAu6cKtXRv9g\nbKlVMpjFLfxr4strc/qj78itfQbgDTAi3oJLpRLI64H7fYWTFfiQtryixha33nD6\nMF9PTjNvAgMBAAECggEAUYzX8lNEzNXLJhC6wva/RfnsqpAc4SI8SxjDSL7Ga4rb\nmND52sumh80OdpmeieBymCsA7BeaUNLdTqv4qHMxK8XK5Wv+r7otwlVz+OLVpRmE\nAefFprn8v5VE0D+PavJHTevFrGLZHp50lUNBmDkJtssbi88mUEjP5WoMuPzJIuka\nJLkV1Ozv+UHnVDqb0V0nitnCehKBx9+oj/PB5ztRbRMUDjBZcUrJpuXJNpD4JZX3\nrRx2buXS1www6YsF0euwyO6uj+KkVqDnYVRkok4YVdIuHEGoLjj6BBNljBJZKrjA\nIx0ma9TAsNfxh8f1cBnThLqSjqb2NdMMUELKC6U7bQKBgQDkcrD029LQsoaqZfDr\n34CNJd3oLxzPzO9S4EhlR6b+0sqEer2124v3GLGLeGZU0XJh15gBVflEtKkS++gg\nEzk5qw3ibd2WK5zoXpVIyIw8lyyL7wF2s8uwIHKQ9qSd5spGUHz5vshjHbXImSjz\n8oDR+VufvePUXoIe0Ery7aiSvQKBgQDKoiWuuJ/K2JgKOtf2FLk5Mk4maAjQuBHw\ni/maAT1lLuUhJJoiDCnQZfre4DDUZXX5VIH+WZ/LJx5ALQWj0sVhmYlTlVh9qdUl\nP7G1iZckDOW6WSdurTXdEWkv6AIbsj495QbFQPBya0U5i2gyrkUHE4q9QwmDg8lA\n/5sqrl33mwKBgCZgAcvQFXTLWIXNRBBLZivPvZwgNeXOVjGEzYR96daKkEx61d1z\nuOpUMpbsLbx3xpAbCETJLWtWMcSnnlGtCQLf8iAkNoHgZ6Y9JTSpw6z19By5lHRd\nNY0rljM1y2de+oGfSa8mVkEYH45H9DIufWdITRTjcB8flRoaAU0XkSa9AoGAfST1\nNtopPeLUy4SZ+g3EcxGheFDKGPWFhtU7+yQG4eW7duOfGaX/cQh6jolRPuvGl4zc\nl9SMPrBTG3lywUGby3JCgM98jmeEDvQucZqfMJGSk6saEl2BJZ3qI78bBjXoANvg\neZRoq5GaeDajzKEaWot0JP0w8/tBIRZ7ozl7KT8CgYB/0NotQzxrPSBZ/XXpEowl\ns+Vya6pdawYINU6sM6A33GDXfz33eWy5xqu5a2gEGuzVe0VSXfESpT183RfuUWPU\nsnGt/RhWTDovozjIk6VEi+wB1DoXjdnz726cf2LClEsKAWXrTKiz4zBwyxhIIF+D\nzoj8Ov2EsvQkKQjtZZVkyA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kageyama-tobio@kageyama-tobio-pprn.iam.gserviceaccount.com",
+  "client_id": "108621345183493745364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kageyama-tobio%40kageyama-tobio-pprn.iam.gserviceaccount.com"
+}
