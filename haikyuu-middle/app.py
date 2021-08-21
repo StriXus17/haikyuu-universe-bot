@@ -45,6 +45,7 @@ def result():
         with open('private_key.json', "w") as myfile:
             myfile.write(json.dumps(request.json))
             myfile.close()
+            return "private-key updated !"
         
 
     # Here's how you create a route
