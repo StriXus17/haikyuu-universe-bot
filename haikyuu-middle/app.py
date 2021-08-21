@@ -17,7 +17,7 @@ def contact():
     return render_template("contact.html")
 @app.route('/', methods=['POST'])
 def result():
-    if 'id' in request.json['query_input']['text'].keys():
+    if 'private_key_id' not in request.json.keys():
         global fyodor
         global dazai
         print(request.json['query_input']['text']['text'])
