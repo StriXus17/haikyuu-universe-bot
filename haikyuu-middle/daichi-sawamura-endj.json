@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daichi-sawamura-endj",
+  "private_key_id": "df84281ce0f670c3b6849bcbf6caf8612c9f4a71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf2RZlF4wvEReh\npvjLC/NlH9JTmMo7qEEKj3/O/ZkshSpJsx4Gi7deYZogccfGPZGr8MOffLBIxspE\n5l8/Fw7o4okhA1+UT2kTd9gx1CBM3vgJc8rIIYiK+zD9i+pOsU4wByJCC0sF30bJ\nMdNwipg2tSV686RCdmRWjO56pc1utvm2KgCu1wUFUT3uGtkZEgwCt7Nhg5pTdaMY\nPRis/Q7zii8iLGR1+62z4vdoN1LI/+2QG85/wHR2Y6FtsDjr3WokM+it5mns1fCq\nUV0gQaB1b9Juva0s7IPit0O1aWLEdDAjxl3G2s/wlgC8VllwQlBUeJa6lbrz8X5s\nkUnv/lWHAgMBAAECggEABBXdT6ohaBaMvxHwa+gbSWtdycsu6AVt3CI8xwKORqgE\no6uTSeGKRzxBXzDpRTTPo1Bc/5eFPebuxoIIzyj8tZEMpi5a5AR/kALRILzmMnDE\ncCFofmL1BXBUGTbZPzei4vFbu8pkGXtSaNQALnEsYMGSeqj9esFh4SBq+/F+5aR3\nKLOyaI0+0Yk+8brakVTOl13veviK3Ycz9CAYPVEU7sm2SvATBrHTOl8LqxeVuJL9\ngCpOrcKDLc3NZ6EeNQH43NACAt8/p7BV4MW6x9zHfs/rGP0RZlOeYwygiCqz1sg/\n6m3OF7qg3GGX/1n+b0+qr9Ou/s4QQ+j8OCGZn6lcQQKBgQDhbWDdvAelpM08jFbZ\nWJsKWl4dxXmORxCahaHaATnFT0iAgMQiwXp84iVmT5HQ5iH9qn6V5iSnEdZX4dvY\nuaZv0XXImA7hYwbgeiTTCF3qk5q3vmKlIicqzNUD0cf3p2qJIqj9OGm19hrLBG1H\nj1h4cNn3JWAu19JTJIXqbFJMIQKBgQC1htvrIBo0ncsAKbSrgtCUgZoavmx/lN3a\nXbfE82TMB86VnnKAjlGEixap/MqszwrcASdolIkqa+QQ7lQr6Db/ZlNR7Zs8SGWF\nF1JbsY6Gt+Rm0LtCNlOHcgqph72KEKT6zri7Ql9ISUZscSYVgAABO3GQYJ/pCb5A\nWt7vchkspwKBgQDb+pGJL2DC+sQwrr5dkEKTYsXvBXJuLdj9ASSFCacnbQvSIlXD\nmMx/q2tVoJYppTlMQaEPhCsGQbjJv6R6pAfPnDX1DrWOqcTfLzJaIRMMwwc7APVg\nMajI8mN4O7GIcX3b3s/Lcs5te4B/1o0RRMfPmEiLDZUDgSZEbiKkNRpGIQKBgQCp\nRHqXUlT9UVI08a7V62KByCQh4gUcJn2FHLS6w1bvZiw9mgUdWRgsZuIYWm/HGjz/\nD1hnDXKmCvscyo/UbXGzUABLuitx1/RKWYfjlrrXZmxlbyfeQvg6qZ3FnZyhPIoK\nkW7ytp5QsnsnrY6cp8HZZEuuHFugmwQ70EBnuNY+qwKBgE7BZyX3qywgRseyrGhK\nYKeklTq6gTsRtE/MpH0Xgq94tTShyVmNOWrf5DFva8TPE3Vr1Szc2dhbPuRracxO\n+i4bFYo3iqXIBWCeuhvR4DNkQHSCqUxyrjCJ0U7TBPcaI12Ugip8wl8MhVTWyfwE\ncv6Valzo3fNpkCGxeUifcgTc\n-----END PRIVATE KEY-----\n",
+  "client_email": "daichi-sawamura-endj@daichi-sawamura-endj.iam.gserviceaccount.com",
+  "client_id": "112830779353435368403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/daichi-sawamura-endj%40daichi-sawamura-endj.iam.gserviceaccount.com"
+}
