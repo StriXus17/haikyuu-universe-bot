@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sugawara-kochi-esym",
+  "private_key_id": "31064d487a065da3401135a4bdfb4ae67008932a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCmH+Lyg/vzx7C4\nmbhZs6lWRVPDHHBsXEONwxF1NGFXWdb9MpE5pcR42yaKI1EbT8FBGy3r5AcwDU/j\nUBVhr5qgd8tu/kpEplXWTKvZO8WS4k0Yb9NaJA5sBNIa024aDQv1EIapjkd15S08\nzgBe16CM2YgeF5wLr+H2b0f/ECStrKhtFm1303uDzaIwviXtLgPSCW3tZxNeH+1w\nVAbGTEf3AwZIO3J8u618wFiaQND//Jg3bqbw6FrWgtjW14mXWs0wk7ZLJI0SfK3Q\n1os/4SHhHGMB51bhQZfFVhmqqVwotkFjn2iAO23D0BuRj/kJ1TUJgk2aaWkgFEPk\nXKe3vu7NAgMBAAECggEADSAT1EltTLOIWO18TUoOpQxRM+c5UrZvd/HjnTkIP9iP\nTe4C32UjgtD92Ig1zkyc3kIBfNPFZZyHpVQcfF1dgDQ21Iwu3gGuYoIoSb+ZOqO6\np6WeM08J/Krc1tXBqzlAqpolqZveNYhn7JfyG4w52ScOxCHlaF77IXdlXtetrjMH\nZtexNFz7AspUrF5aMh2wU0H1EvXhOD3YjplUUbxv90f/fhkSI9lGSUi2ivQ8drG3\nHxF1QJTR64LENkyk6WNyYwJGgqqDFKVXlA5ECJ0mzV0GqLrjudf4U2jefzh/zf5C\nqIdQn+wJFRqpnZnqgak6p+Pybm28VlPDtrpFaNMuAQKBgQDd6rpA4fOQhIssKOaY\n+a4g7ekmDyG0qjUZ0pSbXgJ9esLQxEucU2G/5iVxMQIfQYY373VHDOEE149mmgJv\nKhluszKCGpaoBwn4uOxBPhfvAC0IB0+TqhsduUoyWcECDhKUE6x+yID7vTxxG/2j\neIaczCJv//2py9W5qh1YBDgDjQKBgQC/o4eUgWW7vm1NdI8kgsg+mteWbq/0GrMe\nJk50Dl54ucGBc0wUaQ8RwC8iKYcaaWq3pvgSwzJsOj61IGlc+KiDDYOJ+Imnx+Ro\nfcTod8o3ZtOq/BksfHrpap2O6boGhrY79PsQHu0fAlZsctN9ooZyNurf9S8x7YDJ\nlc+R/tgoQQKBgQCPm/Y6RL6lGFEkG7fW6UUZRDzsB0DNtJQ2iMLopHbCEy59gXpY\nyNDqKZqzXH6+EV41Vn4zo47+3iyLvkCzBbB9pfOapHA4fo2iarFhKzi7zwZVOr3x\nllSD8MOmP9Uaalb1gqHPThvCTV0O6YlDP50FXUkv556VQjamNwNUUS6ahQKBgQCH\nuHr208WG91BVwKz3wJ+spuD0KyP2D0q3mY2KZ/rEKVpAIbXJ5rXDboZy/VIvhGUN\n9/RM5W06dO2gPXohXAGL/vAfsKNc7hZ3YksoEF5oaiySNcRmWyp5UQaRBjq3EITT\nZabBPgXVJkSqvY/GtGnfTcF+JxjrlTbWjYDZ9tCDgQKBgQDP6NoWVtr7wwITo3zE\nSzI8ub4Yvd+iq/Ei3DDMVSlqMfxPZ1AoAZowdiC8enL8w6j5ACQJ0GIYqcOg841Z\nIC32B0MvmSvH33jsxebbCgpP0UQMj87kyXnfMCn/NgygVYHhaSHJ1NqxDcGVS8Uk\n4XPJxnYD4ANbnQYdMMj+W7tKSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sugawara-kochi-esym@sugawara-kochi-esym.iam.gserviceaccount.com",
+  "client_id": "108891830549542382808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sugawara-kochi-esym%40sugawara-kochi-esym.iam.gserviceaccount.com"
+}
