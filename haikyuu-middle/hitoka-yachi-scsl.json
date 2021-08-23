@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hitoka-yachi-scsl",
+  "private_key_id": "4ef9bf31da9488120e4a8bddf58ff57048cac924",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAub7kGTVoZlUE\njvMRYGMQk8As9gK+6eDIs0bNl5u0l30V1JHlWaGYwneAtxR0w7Q0VTiEKiOAnfg2\n7abOx06z8DRnqTyszf/85hQRyztrvB4V9qGh9IM1x7hcRm2Cab8Sv0Pz8gZNKVPZ\nZ7uvCpUwLPi2hssMc0iqN6/9s7AeGtpNMUDbG4Gi8Kv7bEjzSx7419b0G5blnFdX\n/IMfHzEx4nbHZmUzqitg7DJMVYK5rIXb4OQh5jKARuw/iRbEGgJ2ZuKfdO+6LTwq\nAXvWUC24LVhcbYqp2pQSbNGrK8LMr3DBMjg/D4eqqDWXZHAN0hAvraINpQjF0fZV\nbULE0p4HAgMBAAECggEAUwi0IfpqdEyCnLAqMXZhuCawSa7EiBSj8FStUK7dOvV5\nwwoOwc3YPcSrUB2RBq262kFNVEQDf8qPwrqpf7WHRydarL7RkXI/tGo8g14Yf9ZQ\n8A2OngSG84jU+Yyuad29oQoe8N95r4z6v1ReHJBmrpbxoVJ58SdKS2wquxfL7WvL\nE+19CuyVaGxdirjt6a+cE5jP7hR0wmvnIfWPIJFGPcDFHVbMJ9npZYNhltSq0J4x\nCUZ+INbk/q6qm8hxJYWSc5iu+vi77NsdH/VH0xy58hklEAp6+vY7DrquRuf4jNBf\ngjmn32BTNYXRTwae57cxJmk4PL/rae1a55hLQqB1oQKBgQD/dF/1y3KqB7yMtG0x\nYt/qyrWmT/lxkDy3GCf/jLBGgYEIMXxyzoPJvwQ+kk/xDGmLAgg1myxeoBzc3S1d\n+nve7Grs5MxJhDnDbGfn1NK4JNgH3RQ9lTzew6/fRtNGyhafJDeDVkUJqRhxUuRn\nMDW4PuRvVzZFFRTUgSYGwjmoswKBgQDBIxWuf4ZQb0UKXDnM8Rbn/jfq4DjlHfQV\nesq/pSSL5ivzQ00ewqkbrlaSHY0BufIOVJw7bMAVwZhntJTU/AnrwG1No/WBo/Qt\n0vBKovn8fquGmGBYdHSZzzY/JvauOynFJoZY24QTscSB91PF3JOF6TieZ3HF4sdQ\ntlR7VwbXXQKBgHvH3Cex6WHSVd6oHrDrhCy1BMgNwITyqzjdD6SYe2HupqNdtzu6\nLcm4MUpQg0P+C7Y7ydaP1jQTyWiME8uR8CvYywb25rZIx+SVxtNjIKfx0mwdCA2/\nHruifrnmC8Ilckiyt+OADfvcX+epjtshVSZt8yqwS6+1w14lJlPoESBZAoGABqnE\nNLn3k0zTb/EQmW5z4NsXaMYFkHoBEsCiwAvdf+oX+BOJVJdYqDjSicX1OGsG29G1\ndiNhWR7NuD41qEdtvDFuU/BlJuzWHsKZQanvv/NKzaDyKfsSjr/kWjdo6UfnQAL9\nPZGNM/S9F9LFlBzxBfyu1GAzP6V8RN+VeI/fD40CgYArDoy7N/LvX7xrIRcZ2KoY\nMQZe3xLtGwMajJuk09VOqllsmJ2VGCFDULF/Tf80o/DmLErrMETtf1wh2EEI5LUK\nNvhoLCRhXt5ntmhQR1s0QCaiu+QqkFCe5q223nsliNBIhvs91nfcIR2bZEAdPk4R\n7KDUfj34XoqJhf1bN3LW5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hitoka-yachi-scsl@hitoka-yachi-scsl.iam.gserviceaccount.com",
+  "client_id": "109514482848544514894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hitoka-yachi-scsl%40hitoka-yachi-scsl.iam.gserviceaccount.com"
+}
