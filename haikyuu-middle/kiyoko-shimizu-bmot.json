@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiyoko-shimizu-bmot",
+  "private_key_id": "a68f5e700d3ecda8654280e5c269c2d73674906f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfEBxfrDoLC2TE\ny/e8YzzjMn/vEeo5hHlPIfWOkEPvZ1RrfkwnjPi0/KMO34IZ9sNv/AhQGudLDf8I\nEFmmtExsIJ+SO/hFna7exlC/PgYYBFfuk26g7Oz5G9kaZ7WAtNIOXzeZhT5FaxEE\ntWG7tAq75hA8v4cDOIpHhS5NwtDqnwN/bYXZmapRdpMV58ug6eVP53le6x5f99Yf\nQgYgS/oU6QhrLXhqUHrDVxUvNcutiBsXQPz7R7BRgKVGTQUvzgtWcN0XROEc+5Lo\nL//0EB/BOHy6oDQwYfRJfc8AW74MPDE0VdO/Y8dmbBgTJCfN7xpFiMR36Wi6bw27\nMMM9TVLVAgMBAAECggEASohtEzOLmyNCm6iLtB24KSm/otF9NGhrw3XBL4VQH/0G\nJLxwiNPYsk3zRgPbXbkwSOgLKSYCHTw4tZmbuK6hZMVAoHAzXMOPbln0+jfg+R4H\n6gXxf7ylKfEvoNzZwq54Az4AupIh5LtPpSos2px5ryQVlbGVXSAAQ5UXZl6UMGuH\nPt7ft/0wAuvTarh3JXj+kPQdT3fzJpe34f9SXY6y34/tLJZl2b8MXgqe53G+a+54\nRHe3B7V0bno1IzRKKE1Tn6HlbP4Ifm5OhF8l6IvVZ5fj99glgjIf7O4iqxL3dFnf\nNuAtwQ0zmG8bFtdgpnvbLeBS+daqlu/pjPMG5X/2/QKBgQDNWQf/kKhXrSd+qkfg\nFvUS/3q2Hh4AhIYetK0CG6SjGH4qDqTRBt9DWMH4rvBorBslgi6ZF7JboM5sSWh+\n0BBxC41s1QTuo599RQTAbo3oNHEL/PYqUM70OewBx+KUXwBumYzjBOg/JEEG28wv\n/b1ZvKFwuDXPYOJ9V/RLhaCjhwKBgQDGTFvzFVd1mntTfQpNCn4rnx9TDt9zjM8N\n5C6oy3uP678Z2FtROzyuF2ccqtBwCbZ75cjCekiCrqgjjT/HkUEb1tnThS/FSY+Y\nVjxgfoRCgjTGXYumVbg2acSbRIOUK6am7h6sk7550I4XCzDKo9DexdijyNMQp3bm\n9iJNHU/lwwKBgEaNgV8AX6aIGpq9fKZ0nM1jM9EgteQtpDsmjo672qwivS5MC7q5\nprnn4/VCfd0ozMbtXH9DEgfDT0kLS7jOWefNNVEgO2qWkzSiIwjOszkF05Vv21Ac\npY5p3DmcaK/bmDVn0m0pgXY4SZNGr3gJsSYE1l75G5vdyNOSBaBxEAk/AoGBAKAO\nTkF8vmU8VcLjsIbSq1hGTaBa5t17kDykK00vQQK/xDX2Pm7oo2fZl+65qRhlnpeO\nt2bSEOj6VNitUAejJKx11Mg4PoC9iVvqbz1roRGVy0c5hlix48h3wquYt6PHP/KJ\nTNT7Q8lLHwVWkQFfDF5jzyMUG9jbcsula7ZWrIDFAoGAPwMh8fho27EtHUHNcEGV\n4dP6n2r6cQmg0GL3j3MnVMmI6tid7iyGKhm3kCaLPpbHtYC5BA0XTqNJPbTqV2Q/\nU4ZTiDwzjuZQwe2jnikGea2x6rJSlPacW7EyVhaTOKERIViFmZ27bbbs8/5VkWn9\nMkSz9hAz51baqxxxhG0RObE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kiyoko-shimizu-bmot@kiyoko-shimizu-bmot.iam.gserviceaccount.com",
+  "client_id": "108305763791935990723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kiyoko-shimizu-bmot%40kiyoko-shimizu-bmot.iam.gserviceaccount.com"
+}
