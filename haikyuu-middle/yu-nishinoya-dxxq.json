@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yu-nishinoya-dxxq",
+  "private_key_id": "be70f1e5bfb31ef29024788257f901cd0764249e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH9GB2k6Ci/GG3\nJEMiYw8wFdWT2pHKMnm4lCxYheOfEgKem6tRMwmUB5Wq7o0EXS6huFG04sLoNSfY\nbF1NGzzeFmUfPD7VbhJiJrruQvzARM4jZxinjXsMO0AB8cQt7AoNDqnL7c/btL3r\nAcGts5SrR7YbwDd5Fuq3YsYq6/SKfWEDirCPAsLFkUH9hs4ESTTckOLZ6r0RoQ6i\njInDKINKWK3kO+E3pckFy9wiCuEKrUHeVBlbKKb9z5QpJ5CAVGGUbjXEXL2R9yoC\nisPpghDbajfAZEQGJAaf4whoG2gOqP8O28LYnjs+uW8IsxUFHaTS2jTF0jk7OOyD\nrpZGnVlRAgMBAAECggEAQNUmX9wvFhmyD0FFOUWYO5Wgyg9w/PgPyn7UwCEtdDrR\nOZ8s1aewP9yTtTgi5hrWj14ls/pgiw0NLdm5CNK/khz9zbppfydw830uWCnFLQxC\nMG1xq4YuswEVGGxNGTyy55ftCy/BGTJJ8ASCSXF0T3Lxg573/Z2mHi77JRibkjlR\nPCKUW7wimzr6pN9TT8s7TPTgjvXDGgtagAznm1ufvoMZjcnJNK0Ft9jsyu6Yw4ky\nZrzoqLm731dV2/B8/Qtho1IELP+hz1d9q0YRi8ZXM0lfJt2f9hShfZ2sED8LQfzB\nQ3YVM9Im+sEhU6ZZLIPzPnduXeuzvXQsQqPRIwJqzwKBgQDlD19PU/aEZb8zn3qi\npzPdgOXemxAPFAJhXm2g1LdPr3Iubl+ZqQnn/3QqZDszPPW4fQKGNPdJCLZdaxNA\nrDOo/MEnUzpX8xaowZv1MVCL7lqFztjvpXWAt/y/PKEDYCwRrlusSBR0gtvN5IfA\n4kD5cVugpZ8wLpJjB7vL4B8wowKBgQDfeK+52NywTTZerT9EFt71WcZC75KkTpWk\nCfs96QMX+pgkJJQ36f9Ol0U2RRw5shrbDk8It7OxqVSLafd1lahrjaaX0ti952Lk\npaVQmpIEzQ6CWP9ahn2/oLKi/uz80Kdzi6yBNXZHs6d2sGkGdOD5J0kdURGNyP/u\niJRAddvJewKBgHYCaXQRKdwkH1GVRDUwN0RS+BqrgKaEBIXthEVr0dU36neJXa9o\nqzXfIhYE9Yr8SQv3O6mw+AWke2+9jnmvPh49ubVs544QKwheVt8HvRuafQCbBKDS\neasLHyfXMIzwq0OgtJIZwJAWKu/0YQw6hIb+o9or+ct08u4aOeJbYTZJAoGBAL6f\n1EZUFuzM8HQSlMUgPVBNJDI06oH+BufHG+nTui/aM62hBk4r7Py9TOzeRxVwODhk\nHEbzbPU/3D6QReanouMcEd+wm/JiTpl8M2huceBmitnl0O0HjHzKN5eSndWKp0yI\n+L2/PQYs2c0E7pHzYXUnbdb0MGUh8C8pkkzqPHHBAoGBAKIqAvP0BJxSiiKrwBYY\nO4pVixrlL+yiEY9DJM9wCBfS7fl4JmvhMLW/pQyDPdF0efYlTa0b13JjOm81V6aU\nsSP46789IH+lGu2Im+2CkxhJdMk5HVZ/dvZvM194zUerTLoc0FdoK6tkG4kLN36u\nIXeqc1KH0w/TovMKWDD5EZ63\n-----END PRIVATE KEY-----\n",
+  "client_email": "yu-nishinoya-dxxq@yu-nishinoya-dxxq.iam.gserviceaccount.com",
+  "client_id": "116301112587951196356",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yu-nishinoya-dxxq%40yu-nishinoya-dxxq.iam.gserviceaccount.com"
+}
