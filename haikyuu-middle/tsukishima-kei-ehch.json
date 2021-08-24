@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tsukishima-kei-ehch",
+  "private_key_id": "7ad909b3f001dcd20777ed35cb11745a55371a05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn0nJPGhK1oyAh\n5/NGabPdmdsUunMse/hqm7FxaHFYglCpqZwL+fRHd0HOvbr2nwS/Rn/zdOQLZR24\nkP08CTf2y3vDrsPKZvoLSYKQBe26qDnCliVWYKfWFmw2ZirddLsEtCoLs8JFCgMe\nZQ2a8SPMmVIfCKfovZ7g6OMarW8mYtVWHSzkwjT5vC1zbQVmuNtJNmwPOpKhiXA1\nTeVu9sdLAaqA2ASGAeeef+s6tZeNd8FtWSswsjjIMrg3/CtT3mqCCHfUShqhbiQq\nysGDSKXf5TZTlZw09WiwCOfNZtsWpBgJC44GeTAJT4u6HPvmQXbxV1g/w2oR5HDy\ndGWecXWVAgMBAAECggEALOlGOwIEwMQrbLd4pL7T6jlq5kSxXtW8WLdayLlFIAUb\n1hO0VYYqR9fT7iJbPvW2XQPeaQY+owgH6KUwh9kFt4+kCu2hqvBc+RlOjgFwKdQs\nRPVOf6u1LrdodTRpQ0OiavNWDzSniDdSN1eeyPjAdlgPoIt99+yK8LCSWkjQpoo8\nWnCtFL3907V8og6UwVsD233c0c7Z9iKrlNTsPHRyYDtVujhFMcLnYR4b1Xjx63x9\ngn3Kmhx3KXnVqJcXEIUZ+80lSnNw/Wcx0/GVn1GIPIVF7U1LIMqNnhs/qUu6rOs3\n/mz7bLVxrOSZsvA0JIB8OmQgQeyomNsrrSMVHvAXDwKBgQDcoQg3gCHX96QtvVx7\nl39WUoE2fXraCWeXlkPzaHLTYLXz2AE74DdIw5W26LUc9MFCalPh+Lj6Ohk3SvhO\nwI192oXC3j4nK2CFFCNgIZl/cOI8u06iYaw/c/EXX33um+ZvNQZyt7Rxu6Or5Bpn\nfMUeFfHNwSj+fufLk6asMW50WwKBgQDCuiG+qFS+zw9YcULVSedrIpp+Qdhr8O9l\nzFTj0ytzGy0c1X1WgpkV3BjryhF6YOtSHuNgh9ZPoGG5lUWq4VTuXREWMat6AZt1\ni4HO4rjP626D4W5118lA7gS9cE4mjn3NHsTN3QcMqrhD8fpyxYHamXWSsm+7iIoK\nmX4AgqIgzwKBgAU/k2l2k9eGXZJ0+bk67l2IUuiP7Zc4OA2kFnO43Vpn54wobEcX\nW1lQxcP3Hy/UJrDExMAQYZ4aObVWBDgjXnpK83miPcpCvuYLh5fm1LbyYX9eWU2F\nk0pjIK4UqHM/pCirEz8xXYqDEy6om3QwxKOlk/34BVigfjUaixF3j5AXAoGARhnN\n1h4xS/OsuZEklzYgym/NoFBCAjHdbQ9PLCk0Rh7tcajlk0Q2qijvC8tV2XGUpZ6b\nCoA8RbQeGjpDt02hTqJQaWX+LlDvzzQmyfzSvX8q7O0139SMDgThzfTlHXpEjZhb\nDyVXyVaYOVWebLzvj2uZaPM1yBRSZZh2RObCSP8CgYAHGpi1iPfgVa/+l4SOCV76\n60zQNjsy6LDaTifqxrpRU4cZgWpBiBZtRuFhrRoDJaOvPkGOUVpyIVO6T/C7UiFI\n4IEw8NpAKRyENm91+6j3LC7fUTkKYykI9hiqveidRsOiaokzaUp9aRr+eBPM6woG\nDf2KFj63YsSiH2pdoUfTPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tsukishima-kei-ehch@tsukishima-kei-ehch.iam.gserviceaccount.com",
+  "client_id": "116762617336385253840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tsukishima-kei-ehch%40tsukishima-kei-ehch.iam.gserviceaccount.com"
+}
