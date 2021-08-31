@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lelouch-lamperouge-yyyl",
+  "private_key_id": "572c82eb8d989d6c280efcd7300d1d014af32e50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDpltdSTqKrePwh\nN5cDeNQMoRQVprOkxX5Sh4tI/K4sAWLdTVZvTRAuPodo07az56NwNkekE6tx8Djm\n7IX7fCX9j2CLuLpELcSi8S/3tqdhNLTVhWaTOQcPDeOnfnRbVDNxQhqicjUhkSVu\nzQ98XOOa7bHV+Gj8Nx2Nd1xcASjq5k2z+Cvp/sQ/9vQ1Z9lT1U9gXa0BQ9CZ4Gzc\n/zhV4YkvOFGAI41TRg9a4uk94fAKqhKj9tWKzp/zsOQR6nMfWkTUWA76HGYSnKJR\nguOxB9tlnQ1d9uxVQSaT8GbK9cut5uJ5xowAJNXtEvyASlGyYIqVhBIiZCDYASGa\nfi8k8fzBAgMBAAECggEAFC/axmxwzvha88Tx2lU2ICxIh9F7C3Wc4+V+Yk2iAMAS\n6vSs0Fwc1p5FRggr7TLK018BhHrFsYhU5pIQxynUv6vFKHYLtOouqPVGk7YXk4VC\nToSjl3wRcdndr4M0a5MkifhwRFMx58d7MG7s1G7Tpbc+i/MWoZtixK/IzdO01U3t\nKVVdVWt7IkGwAxhSvVdDzDqLBCZdg177e7nY56ubCLaoaE89XzEm2hJkHBX3Ag/d\nNN0rPu3hPUqx4Eq2Dyr+eVg9R9vz5IbZnlg0R/K5aNiHcKrP2X86WeLweaQl30M3\n+m/r2oB0MfYqL06xMQVdOSWDpv3egPFlm26gad+/kQKBgQD5TS7k2JXtq3J/YjsS\nBOPt8pWAlow19NUlYog3PQbKV1yNfpkqA2MJCmxZRjfKw3umQoqmhOpCnOd4o9ma\nAAvLbS2TVygPSf9rS3NDdL1QprPy0KtD/D/dyf1Hf3kNbxhjxkUI08Ua42evLTeQ\nl2Au1b3wS1BFddNwMEs4tMjhKQKBgQDv3ZTN8UUD1kHXpxQm9HPsJalhpGLY4qbI\nwGKdAGDa65/qbWFn+2VpoXBT8XgJl41gOQrRiMMftnR7VF2mMu6fLLaKO0ojqea2\n5W9RwwrrIYoGQnqEhjOE95aaycf0dIW8LVXEvTD5UMZQRmleTO7sQI9TRu9Emw44\nbyYwfGE52QKBgQDXljlxSSMObu8K3YW7pWL+SIOkuYvytREFzVmCe1G99SJichI9\n1MP183+TDDf/LmFle7GvIs36YPmCyB7LIDMS7g01l29bGWC6Bntc4D0+24pN9snE\ndwU75QsUo1WpmmL7FWBpq8iN4g2t3WpprZ5NoiUpAdge2S/JmtnR5fS5UQKBgQCQ\nvuoZDMtU8WpyNITYrRN3IZMBNS3hK4TyCAZ6L8xCz4WE9dSd5vrfr2gVf9WsFCRg\nOIvqvdjhvjy0X8jTjlCpBVZyPC0VMGXlYLa4ZDamhWrBNESyzDkyuCXN6o4bWmWJ\nlOH5AyIWkUPbFWJoYYycTKkw29FvWRJPw+MLx0L0oQKBgQDzLtv1nauqdTrZgkhZ\nW+31U6ne1tIw5u8HOm2FhGjJ9iJFLKRZ34n3L09vx7Iyh07izfCQV/HDU61XhFrw\nOUxBZSVGvVwxQTNu+N26OApXYVbNpVSXogm8VL/855vIONZGb1f7iMxRDnxtEdyJ\nczPeva41BK8swtW9945S/Y4FpQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lelouch-lamperouge-yyyl@lelouch-lamperouge-yyyl.iam.gserviceaccount.com",
+  "client_id": "103341416230433601987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lelouch-lamperouge-yyyl%40lelouch-lamperouge-yyyl.iam.gserviceaccount.com"
+}
