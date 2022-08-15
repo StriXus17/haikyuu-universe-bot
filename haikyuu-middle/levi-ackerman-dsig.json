@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "levi-ackerman-dsig",
+  "private_key_id": "e6b323bdfbc55ea58c0af29701738b609e9bea31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCxXDnCSg7TcFSI\n+cHLfs7DI5vn2Vn8HI0F6QmD3PAgiTRQDLlyElnzBJHMHNheiqMVrxHI/Rke3oZ0\nsZfkFtodfYCSpSz7gsbfu1O+BL2Sf+MRSYf4kZpZkDiwoTX/Ino50XnmGVFX731U\n3hK7cPeXOTBQifYTBqeSh38XZqEXNErznkpZ/tKcdUdEwl2+8Qv2qM4iRSi0Aqsn\n9ESTUkZYmFMaaKoZf3Sh/LVTMr5Kj3I5WSxYRRjNnBypZ7eeAd9XfufT8dokEbG9\n2F0toWcrD8pRHPwHkd7PyKsIYfIpQaVONwds8TOZwe2DXUCIe30BQL8EZp7BMrtg\n7ByfJG9HAgMBAAECggEAFRW+O3CmH5EwnjzMQwl3F4V8YOKa4IPHviah/h5Tdm1p\nSIT4EkLH6mymJT+z91VVpbEeP6iF29YfjPBEpZXpO0KdeOblw0bHpsx0hwK1mMeB\nsp9CaL9tO+2PLRcVPhjBXW30/HERFbpVH4mWbNiKuVx6onCBo78RnTQPh17TkthD\n/Lfsw+homTOV1UbY0ZJ15vDu9C7G02vNn32oCxWuNs8d2hd9hP7a/8EUPu1Nh33h\nocK3+pv79V+kOpeoxhSuEegi5AH6VhQHUvqhJ9hL5jq0kY2zdwdkkugMiPEOBrCh\nAAQJ/c5JTTiNQt70EPO8zTaKXzJnEIpy/UBr/Dli9QKBgQDmzqe5dk7RX00QEQzD\nlyH3jv2CbCRF3FM5FUZ+tD0aWPJe2Z0mjiHQRdb0X/eYodaAobl/8du+pKNTYZn8\n/+mjGjq7U073yJ3GWZAgex+i1a6bASdYPTOABi8lFZSH2Nnc6DPgz9oyDMnhFaGt\nsmYXTsG16oEy/5JQKQS484JxZQKBgQDEuB/0z0yPjCyDbOzZa5RpwCp1ZgqIGAyj\nvRus6HYyRlji8ljMY/Oa2BLDDuxLpNTsaZsdYaowb3b74nf2uQ5S4YPp3L8K/UxH\npR95AMUlBaFoCcWlH+hNuXk1p8puiKLkoSTbbecL8ywXHYwePmWZoAIMJi0Ky4nL\nmCyoFhzJOwKBgQDjaYju/rfIKetnQjVeXgIUxqnYIK9Yui6x1tmfq/1sgWlFtYrW\n20JL0RRrskbl98e+9BovC2HlpJhcZpVwJ8LPdt+ZhQsQr3VtYv/UURwpt/sTNP7M\nPXkJ0o4PLwUrGKoItC2xe3rUx679/O9Rkq5ulqXclVN5qUFDhDbn+N501QKBgQCv\n9nsvQlabeKlAjih2exJwXaIdDT+SaOC1fizJR86iPea4aksf2LBI68osjKa1KyYC\nqpxDdd8EIFBwEy13liTH4k1a3UhODjEzTPKQDC5MZXLxWvxeLeJf0+4mHoamxLXg\niHwtg2tOdyATNSzmyK2c81GhiGx14YbKhL49RDpPjQKBgQC3MQYPkJE9+B51UsnI\nNX6iIaVJKl38JCZg87u0B+KzvgD7CoNVaMEgwlbEom/7JzoxlXQGadqwIXEK2tMS\ndpfoJqs1sezIwQJ+2209BY11FcID138ZYYcRBaJm5kvqMY7xvl9kPJlzQ48nnsAb\nBbngmfEpnVkctgJUGtceIqS8ow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "levi-ackerman@levi-ackerman-dsig.iam.gserviceaccount.com",
+  "client_id": "117717040796702390759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/levi-ackerman%40levi-ackerman-dsig.iam.gserviceaccount.com"
+}
